@@ -1,0 +1,55 @@
+{
+  "_from": "katana.scss",
+  "_inBundle": false,
+  "_integrity": "sha512-39azkxYSI/P4L75RAUluwYcVaRmQQQofDzaLp2Bp/QYHNmZmaUb9QdvgekT83p3isGt57DAx1GhEvj2uyH3nDg==",
+  "_location": "/katana.scss",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "katana.scss",
+    "name": "katana.scss",
+    "escapedName": "katana.scss",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/katana.scss/-/katana.scss-1.0.0.tgz",
+  "_shasum": "2c7684d7834933460f0864262f54bf29645e70de",
+  "_spec": "katana.scss",
+  "_where": "/Users/vladimir/Documents/Katana",
+  "author": "Vladimir Carrer <vladocar@gmail.com> (http://www.vcarrer.com)",
+  "bugs": {
+    "url": "https://github.com/vladocar/Katana/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Katana is sharp CSS Layout System made with Flexbox",
+  "homepage": "https://github.com/vladocar/Katana#readme",
+  "keywords": [
+    "css",
+    "css3",
+    "css-framework",
+    "sass",
+    "scss",
+    "css-library",
+    "css-grid",
+    "html",
+    "html-template"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "katana.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladocar/Katana.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
