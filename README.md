@@ -21,7 +21,7 @@ Katana default values:
 
 Basically you can generate any grid with any value or unit you like just change the default numbers in the katana.scss.
 
-The Grid:
+### The Grid:
 
 [https://vladocar.github.io/Katana/](https://vladocar.github.io/Katana/)
 
@@ -30,7 +30,7 @@ also:
 [Katana Demo](https://vladocar.github.io/Katana/katana-demo.html)
 
 
-How the CSS class naming system works?
+### How the CSS class naming system works?
 
 The class names are col-1, col-2 ..
 
