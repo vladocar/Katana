@@ -38,3 +38,20 @@ The width value of col-1 is 100%, the value of col-3 is 100/3 = 33,33%, col-5 is
 
 You also have .fluid column. You can use multiple columns in one row.
 
+
+## Download or Install
+
+You can simply download the library or use:
+
+```
+$ npm i katana.scss
+```
+
+### Browser Support
+
+[Works in all flex compatible browsers](https://caniuse.com/#feat=flexbox)
+
+### License
+
+This project is licensed under the MIT License
+
