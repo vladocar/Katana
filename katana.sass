@@ -1,0 +1,31 @@
+$m: 15px
+$col: 12
+
+*
+  box-sizing: border-box
+
+.main
+  display: flex
+  flex-flow: row wrap
+  width: 94%
+  margin: 0 auto
+
+@for $i from 1 through $col
+  .col-#{$i}
+    width: calc(#{1 / $i}% - #{$m})
+    margin: 0 0 0 $m
+
+.fluid
+  flex: 2
+  margin: 0 0 0 $m
+
+.clear
+  width: 100%
+
+@media (max-width: 600px)
+  .main, .main > *
+    width: 94% !important
+
+  img
+    max-width: 100%
+    height: auto
